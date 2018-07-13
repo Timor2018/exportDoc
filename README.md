@@ -1,1 +1,3 @@
 # exportDoc
+该demo是使用Itext实现Java生成word文档，当然，还有其他方式可以，例如：jacob，但是它局限于windows平台 往往许多JAVA程序运行于其他操作系统 在此不讨论该方案；另一种是pio但是它是excel处理程序 对于word模块还局限于读取word的文本内容,写word文件就更显弱项了。
+因此，Itext无疑会比上述两种方式更优，它是一种生成PDF、Word报表的Java组件，专业的人做专业的事
